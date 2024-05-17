@@ -1,4 +1,7 @@
-### Hi there 👋
+### Felipe Nistarda - 2ºB
+### Robótica
+![](https://github.com/mostaarda/mostaarda/assets/170126903/d1c30667-fcd3-4805-b114-2509baeafa2f)
+
 
 <!--
 **mostaarda/mostaarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
